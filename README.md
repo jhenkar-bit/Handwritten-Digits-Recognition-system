@@ -33,8 +33,8 @@ Setup
 
 You need Python 3.10, 3.11 or 3.12. These steps are for Windows. On Mac or Linux, use `source venv/bin/activate` instead of `venv\Scripts\activate`.
 
-git clone <your-repo-link>
-cd <repo-folder>
+git clone <https://github.com/jhenkar-bit/Handwritten-Digits-Recognition-system.git>
+cd <Handwritten-Digits-Recognition-system>
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
